@@ -25,6 +25,7 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
+![Screenshot 2024-04-15 133028](https://github.com/ramya23000505/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/149370791/ff22026c-d40d-4ce1-8b5c-18531816fbb5)
 ![Screenshot 2024-02-28 083448](https://github.com/ramya23000505/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/149370791/8cc4b467-dc50-4181-a5cc-ca90718ce7be)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
